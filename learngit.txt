@@ -12,3 +12,6 @@ measureSamplePeriod=@Variant(\0\0\0\x87@\0\0\0)
 measureSampleRate=6
 measurecddistance=@Variant(\0\0\0\x87\0\0\0\0)
 
+
+-------------------end--------------------------
+
