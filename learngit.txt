@@ -1,0 +1,16 @@
+[calibConfigs]
+calibModel=4
+calibRanges=1
+calibStandard=@Variant(\0\0\0\x87\x44\x9c@\0)
+
+[measureConfigs]
+measureModel=3
+measureRangeJudge=1
+measureRanges=1
+measureSampleModel=1
+measureSamplePeriod=@Variant(\0\0\0\x87@\0\0\0)
+measureSampleRate=6
+measurecddistance=@Variant(\0\0\0\x87\0\0\0\0)
+
+[systemConfigs]
+systemLanguage=1
